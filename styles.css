@@ -401,15 +401,15 @@ blockquote p,
 }
 
 .movement .card-image {
-  background-image: linear-gradient(rgba(231, 70, 5, 0.14), rgba(0, 0, 0, 0.08)), url("assets/naya-plank-wide.png");
+  background-image: linear-gradient(rgba(231, 70, 5, 0.14), rgba(0, 0, 0, 0.08)), url("naya-plank-wide.png");
 }
 
 .nutrition .card-image {
-  background-image: linear-gradient(rgba(231, 70, 5, 0.08), rgba(27, 18, 11, 0.18)), url("assets/naya-drink.png");
+  background-image: linear-gradient(rgba(231, 70, 5, 0.08), rgba(27, 18, 11, 0.18)), url("naya-drink.png");
 }
 
 .community .card-image {
-  background-image: linear-gradient(135deg, rgba(27, 18, 11, 0.14), rgba(231, 70, 5, 0.26)), url("assets/naya-crowd-wide.png");
+  background-image: linear-gradient(135deg, rgba(27, 18, 11, 0.14), rgba(231, 70, 5, 0.26)), url("naya-crowd-wide.png");
 }
 
 .card-badge {
@@ -859,7 +859,7 @@ blockquote p,
   padding: 38px clamp(20px, 5vw, 54px);
   background:
     linear-gradient(90deg, rgba(0, 102, 84, 0.94), rgba(0, 102, 84, 0.78)),
-    url("assets/naya-celebration.png");
+    url("naya-celebration.png");
   background-size: cover;
   background-position: center;
   color: white;
